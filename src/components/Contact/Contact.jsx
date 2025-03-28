@@ -1,5 +1,5 @@
 import { useDispatch } from "react-redux";
-import { deleteContact } from "../../Redux/contactsSlice";
+import { deleteContact } from "../../redux/contactsSlice";
 import clsx from "clsx";
 import { FcPhone, FcReadingEbook } from "react-icons/fc";
 import css from "./Contact.module.css";
